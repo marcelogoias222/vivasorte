@@ -658,7 +658,9 @@ IMG.logo-rodape {
 
 .topo img {
     width: 350px !important;
-    max-width: 60% !important;
+    max-width: 60% !important;
+    display: block;
+    margin: 0 auto;
 }
 
 .pgto-concluido-header {
